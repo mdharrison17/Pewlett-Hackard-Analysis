@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Project Summary:  Used advanced sql queries and joins to create data lists for the HR department to help them in their analysis for a mentorship program.
+## Project Summary:  Use advanced sql queries and joins to create data lists for the HR department to analyze retiree data for a possible mentorship program.
 
 ERD Diagram: PIC HERE
 
