@@ -2,7 +2,8 @@
 
 ## Project Summary:  Use advanced sql queries and joins to create data lists for the HR department to analyze retiree data for a possible mentorship program.
 
-ERD Diagram: PIC HERE
+ERD Diagram:
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 ### Requested Queries:
 
@@ -12,24 +13,25 @@ ERD Diagram: PIC HERE
 
 
 **SQL Code:** 
- 
+ ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 **Output Sample:**
- 
+ ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 #### Only the Most Recent Titles
 
 **Purpose:**  This query was designed for a quick glance at how many people in each title are eligible to retire.  This gives the user a quick look into where the most mentors are most likely needed.  In this query I did notice the most needed position of retirees are under the title ‘Staff”.  The HR department should consider a more precise title to continue with their analysis.
 
 **SQL Code:** 
- 
+ ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 **Output:**
- 
+ ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 #### Who's Ready for a Mentor?
 
 **Purpose:** This query is designed to show the current employees who would be eligible to be in a mentorship program to eventually fill retiree positions.  A quick count table per title would also be recommended to see how the people retiring vs people available match up title for title.
 
 
 SQL Code:
- 
+ ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 Output:
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
