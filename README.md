@@ -3,7 +3,7 @@
 ## Project Summary:  Use advanced sql queries and joins to create data lists for the HR department to analyze retiree data for a possible mentorship program.
 
 ERD Diagram:
-![ERD Diagram](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/Snap1.png)
+![ERD Diagram](Snap1.png)
 
 ### Requested Queries:
 
