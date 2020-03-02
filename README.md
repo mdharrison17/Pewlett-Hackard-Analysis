@@ -3,7 +3,7 @@
 ## Project Summary:  Use advanced sql queries and joins to create data lists for the HR department to analyze retiree data for a possible mentorship program.
 
 ERD Diagram:
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+![ERD Diagram](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/Snap1.png)
 
 ### Requested Queries:
 
@@ -13,25 +13,25 @@ ERD Diagram:
 
 
 **SQL Code:** 
- ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ ![SQL Code Number of Retiring employees per title](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/titlesretiringcode.png)
 
 **Output Sample:**
- ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ ![Output](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/titlesretiringoutput.png)
 
 #### Only the Most Recent Titles
 
 **Purpose:**  This query was designed for a quick glance at how many people in each title are eligible to retire.  This gives the user a quick look into where the most mentors are most likely needed.  In this query I did notice the most needed position of retirees are under the title ‘Staff”.  The HR department should consider a more precise title to continue with their analysis.
 
 **SQL Code:** 
- ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ ![SQL Code Only Most Recent Titles](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/currenttitlescode.png)
 **Output:**
- ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ ![Output](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/currenttitlesoutput.png)
 #### Who's Ready for a Mentor?
 
 **Purpose:** This query is designed to show the current employees who would be eligible to be in a mentorship program to eventually fill retiree positions.  A quick count table per title would also be recommended to see how the people retiring vs people available match up title for title.
 
 
 SQL Code:
- ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ ![SQL Code Ready for a Mentor](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/mentorcode.png)
 Output:
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+![Output](https://github.com/mdharrison17/Pewlett-Hackard-Analysis/mentoroutput.png)
